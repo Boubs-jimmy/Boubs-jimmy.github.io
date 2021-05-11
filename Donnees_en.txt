@@ -1,0 +1,30 @@
+Welcome to SENMONEY  ;
+
+Give the number of the chosen service;
+1: My account balance;
+2: transfer of money;
+3: Pay your bills;
+4: Options;
+
+
+Please give your secret code;
+
+Error code do you want to return to the menu?;
+
+
+Your number cannot be found;
+
+Your balance is ;
+
+Please enter recipient number;
+
+This transfer is impossible !!!!;
+
+The recipient's number can not be found;
+
+Give the amount of the transfer;
+
+A transfer requires a sum;
+
+Do you want to transfer of;
+to the number;

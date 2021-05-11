@@ -1,0 +1,30 @@
+   Bienvenue sur SENMONEY;
+
+Donnez le numéro du service choisi;
+1: Solde de votre compte;
+2: Transferer de l'argent;
+3: Payer vos factures;
+4: Options;
+
+
+Veuillez donner votre code secret;
+
+Code erroné voulez-vous retourner au menu ?;
+
+
+Votre numéro  est introuvable;
+
+Votre solde est de ;
+
+Veuillez saisir le numéro du destinataire;
+
+Ce transfert  est impossible!!;
+
+Le numero  du destinataire est incorrect;
+
+Donnez le montant du transfert;
+
+Le transfert nécessite une somme;
+
+Voulez-vous confirmer le tranfert de;
+vers le numéro ;

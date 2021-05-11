@@ -1,0 +1,39 @@
+div
+{
+    border-radius: 13px;
+   	padding-top: 20px;
+   	padding-bottom: 23px;
+    height: 300px;
+    text-align: center; 
+    width: 500px;
+    background-color: #FFA500;
+
+
+}
+
+input
+{
+    text-align: center;
+}
+
+h2
+{
+    color: white;
+}
+
+button
+{
+    transition-duration: 0.9s;
+    background-color: black;
+    color: white;
+    border: 3px  white;
+    padding:15px;
+    width: 60px; 
+    border-radius: 70%;
+
+}
+button.hover
+ {
+ background-color: white; 
+  color: black;
+}
