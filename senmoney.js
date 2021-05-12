@@ -11,13 +11,13 @@ const url = (choice) => {
         let uri = '';
         if (choice == 'fr') {
             uri = './Donnees_fr.txt'
-        }
+        }break
         if (choice == 'en') {
             uri = './Donnees_En.txt'
-        }
+        }break
         if (choice == 'wo') {
             uri = "./Donnees_Wo.txt"
-        }
+        }break
 
         return uri
     }
